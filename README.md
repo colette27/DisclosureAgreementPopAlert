@@ -1,2 +1,0 @@
-# DisclosureAgreementPopAlert
-Created with CodeSandbox
